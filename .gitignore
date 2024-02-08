@@ -1,0 +1,5 @@
+.vs/
+/src/Auctions.API/bin/
+/src/Auctions.API/obj/
+/tests/UseCases.Test/bin/
+/tests/UseCases.Test/obj/
